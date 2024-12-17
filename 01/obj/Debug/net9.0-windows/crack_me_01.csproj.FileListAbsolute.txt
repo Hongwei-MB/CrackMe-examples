@@ -1,0 +1,17 @@
+C:\FileStorage\Training\Crack-me\01\bin\Debug\net9.0-windows\crack_me_01.exe
+C:\FileStorage\Training\Crack-me\01\bin\Debug\net9.0-windows\crack_me_01.deps.json
+C:\FileStorage\Training\Crack-me\01\bin\Debug\net9.0-windows\crack_me_01.runtimeconfig.json
+C:\FileStorage\Training\Crack-me\01\bin\Debug\net9.0-windows\crack_me_01.dll
+C:\FileStorage\Training\Crack-me\01\bin\Debug\net9.0-windows\crack_me_01.pdb
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.Start.resources
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\Crack_me_01.UserLogin.resources
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.csproj.GenerateResource.cache
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.AssemblyInfoInputs.cache
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.AssemblyInfo.cs
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.csproj.CoreCompileInputs.cache
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.dll
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\refint\crack_me_01.dll
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.pdb
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\crack_me_01.genruntimeconfig.cache
+C:\FileStorage\Training\Crack-me\01\obj\Debug\net9.0-windows\ref\crack_me_01.dll
