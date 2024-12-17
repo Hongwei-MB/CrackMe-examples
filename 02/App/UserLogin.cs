@@ -1,5 +1,4 @@
-﻿using CrackMe_01;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Crack_me_01
+namespace CrackMe_02
 {
     public partial class UserLogin : Form, INotifyPropertyChanged
     {
@@ -74,7 +73,7 @@ namespace Crack_me_01
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
     }
 }

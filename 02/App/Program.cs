@@ -1,8 +1,6 @@
-using crack_me_01;
-using Crack_me_01;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CrackMe_01;
+namespace CrackMe_02;
 
 static class Program
 {

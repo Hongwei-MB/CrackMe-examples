@@ -1,4 +1,4 @@
-﻿namespace Crack_me_01
+﻿namespace CrackMe_02
 {
     partial class UserLogin
     {
@@ -104,7 +104,7 @@
             Name = "UserLogin";
             ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
-            Text = "LoginModal";
+            Text = "Login Level 2";
             ResumeLayout(false);
             PerformLayout();
         }

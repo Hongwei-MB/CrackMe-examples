@@ -104,7 +104,7 @@
             Name = "UserLogin";
             ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
-            Text = "LoginModal";
+            Text = "Login Level 1";
             ResumeLayout(false);
             PerformLayout();
         }

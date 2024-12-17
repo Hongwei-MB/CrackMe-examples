@@ -1,4 +1,4 @@
-﻿namespace crack_me_01;
+﻿namespace CrackMe_02;
 
 partial class Start
 {
@@ -60,7 +60,7 @@ partial class Start
         ClientSize = new Size(800, 450);
         Controls.Add(panel1);
         Name = "Start";
-        Text = "CrackMe 01";
+        Text = "CrackMe 02";
         panel1.ResumeLayout(false);
         panel1.PerformLayout();
         ResumeLayout(false);

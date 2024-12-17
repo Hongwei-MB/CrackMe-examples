@@ -1,6 +1,6 @@
 ﻿using LoginWrapper;
 
-namespace CrackMe_01
+namespace CrackMe_02
 {
     public interface ILoginService
     {

@@ -3,5 +3,5 @@
 
 bool NativeLoginService::CheckPermission(const std::string& userName, const std::string& password)
 {
-    return userName == "admin" && password == "MB";
+    return userName == "admin" && password == "Test222";
 }

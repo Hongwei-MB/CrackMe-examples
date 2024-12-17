@@ -19,7 +19,7 @@ public partial class Start : Form
         var userLogin = serviceProvider.GetRequiredService<UserLogin>();
         if (DialogResult.OK == userLogin.ShowDialog())
         {
-            lblMessage.Text = "Welcome " + userLogin.UserName + Environment.NewLine + "Congratulations: you've cracked me.";
+            lblMessage.Text = "Welcome " + userLogin.UserName + Environment.NewLine + "Congratulations: you've cracked me. You come to the L1.";
         }
         else
         {
