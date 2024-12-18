@@ -60,7 +60,7 @@ partial class Start
         ClientSize = new Size(800, 450);
         Controls.Add(panel1);
         Name = "Start";
-        Text = "CrackMe 01";
+        Text = "CrackMe 01 - Level 1";
         panel1.ResumeLayout(false);
         panel1.PerformLayout();
         ResumeLayout(false);
